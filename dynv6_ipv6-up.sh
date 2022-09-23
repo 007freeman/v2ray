@@ -1,6 +1,6 @@
 #!/bin/sh -e
 # based on https://gist.github.com/corny/7a07f5ac901844bd20c9
-# modify by trotter; May 13, 2021 
+# modify by ifeng; May 13, 2021 
 
 #hostname=$1
 #device=$2
